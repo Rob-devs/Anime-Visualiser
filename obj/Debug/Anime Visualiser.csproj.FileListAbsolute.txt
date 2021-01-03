@@ -1,0 +1,13 @@
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\bin\Debug\Anime Visualiser.exe.config
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\bin\Debug\Anime Visualiser.exe
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\bin\Debug\Anime Visualiser.pdb
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime Visualiser.csprojAssemblyReference.cache
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime_Visualiser.frmDepart.resources
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime_Visualiser.Properties.Resources.resources
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime Visualiser.csproj.GenerateResource.cache
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime Visualiser.csproj.CoreCompileInputs.cache
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime Visualiser.exe
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime Visualiser.pdb
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime_Visualiser.AddElement.resources
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime_Visualiser.ModifyElement.resources
+C:\Users\robbr\Desktop\Rob\Programmes\Anime Visualiser\Anime Visualiser\obj\Debug\Anime_Visualiser.Tags.resources
